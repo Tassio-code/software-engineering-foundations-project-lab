@@ -92,7 +92,7 @@ Descreva a funcionalidade.
 
 ---
 
-## 🏢 5. Requisitos Organizacionais
+## 5. Requisitos Organizacionais
 
 ### 5.1 Ambientais
 - Plataforma (Windows, Linux, etc.)
