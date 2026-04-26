@@ -11,7 +11,7 @@ Incêndios no agronegócio causam grandes prejuízos financeiros, ambientais e o
 ## 3. A Solução
 O **Fireseeker** é um sistema inteligente focado na detecção e previsão de princípios de incêndio em áreas rurais. Através da integração de dados de satélite e algoritmos de Inteligência Artificial, o sistema:
 * Monitora continuamente regiões de interesse.
-* Identifica padrões de risco (calor e fumaça).
+* Identifica padrões de risco.
 * Envia alertas em tempo real, permitindo uma resposta imediata antes que o fogo se propague.
 
 ## 4. Diferenciais e Competidores
